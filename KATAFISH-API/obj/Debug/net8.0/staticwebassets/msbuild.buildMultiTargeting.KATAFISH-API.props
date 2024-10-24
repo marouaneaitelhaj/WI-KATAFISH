@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KATAFISH-API.props" />
+</Project>
