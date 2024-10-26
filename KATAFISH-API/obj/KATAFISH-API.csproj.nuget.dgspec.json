@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marwa\\Desktop\\WI-KATAFISH\\KATAFISH-API\\KATAFISH-API.csproj": {}
+    "C:\\Users\\MAROUANE\\Desktop\\WI-KATAFISH\\KATAFISH-API\\KATAFISH-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marwa\\Desktop\\WI-KATAFISH\\KATAFISH-API\\KATAFISH-API.csproj": {
+    "C:\\Users\\MAROUANE\\Desktop\\WI-KATAFISH\\KATAFISH-API\\KATAFISH-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marwa\\Desktop\\WI-KATAFISH\\KATAFISH-API\\KATAFISH-API.csproj",
+        "projectUniqueName": "C:\\Users\\MAROUANE\\Desktop\\WI-KATAFISH\\KATAFISH-API\\KATAFISH-API.csproj",
         "projectName": "KATAFISH-API",
-        "projectPath": "C:\\Users\\marwa\\Desktop\\WI-KATAFISH\\KATAFISH-API\\KATAFISH-API.csproj",
-        "packagesPath": "C:\\Users\\marwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marwa\\Desktop\\WI-KATAFISH\\KATAFISH-API\\obj\\",
+        "projectPath": "C:\\Users\\MAROUANE\\Desktop\\WI-KATAFISH\\KATAFISH-API\\KATAFISH-API.csproj",
+        "packagesPath": "C:\\Users\\MAROUANE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAROUANE\\Desktop\\WI-KATAFISH\\KATAFISH-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\MAROUANE\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,6 +60,14 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
