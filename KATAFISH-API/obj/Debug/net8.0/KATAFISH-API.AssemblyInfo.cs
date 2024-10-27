@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KATAFISH-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f83ddf0fdc365a1f1763dca903c7bb898f47f6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61b084ae98e696c4f613a372ff9fa4fef34d15ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("KATAFISH-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KATAFISH-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
